@@ -16,8 +16,9 @@ The respository contains 4 files:
 </ul>
 
 <h1> Implementation </h1>
-Compare performacne: Run "compare.m" in Matlab or Octave.
-Use ELM API: Call "elm.m" in Matlab or Octave according to its API parameters.
-Use API of Game Theory based ELM: Call "elm_gt.m" in Matlab or Octave according to its API parameters.
-
+<ul style=”list-style-type:disc”>
+<li> Compare performacne: Run "compare.m" in Matlab or Octave. </li>
+<li> Use ELM API: Call "elm.m" in Matlab or Octave according to its API parameters.</li>
+<li> Use API of Game Theory based ELM: Call "elm_gt.m" in Matlab or Octave according to its API parameters.</li>
+</ul>
 </html>  
