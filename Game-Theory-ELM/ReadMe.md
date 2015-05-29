@@ -13,7 +13,7 @@ The respository contains 4 files:
 <li> "elm.m" implements the original ELM algorithm. </li>
 <li> "elm_gt.m" implements our proposed Game Theory based ELM.</li>
 <li> "elm_gt_predefine" computes the required information (H, H', Y and Y' in paper) to avoid re-using information.</li>
-</ui>
+</ul>
 
 <h1> Implementation </h1>
 Compare performacne: Run "compare.m" in Matlab or Octave.
