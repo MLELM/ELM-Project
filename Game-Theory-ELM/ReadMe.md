@@ -10,9 +10,9 @@ The main idea behind is separating the fixed variables apart from ones depending
 The respository contains 4 files:
 <ul style=”list-style-type:disc”>  
 <li> "compare.m" compares the performance of Game Theory based ELM with the original one in terms of running time and the testing accuracy. </li>
-<li> "elm.m" implements the original ELM algorithm.
-<li> "elm_gt.m" implements our proposed Game Theory based ELM.
-<li> "elm_gt_predefine" computes the required information (H, H', Y and Y' in paper) to avoid re-using information.
+<li> "elm.m" implements the original ELM algorithm. </li>
+<li> "elm_gt.m" implements our proposed Game Theory based ELM.</li>
+<li> "elm_gt_predefine" computes the required information (H, H', Y and Y' in paper) to avoid re-using information.</li>
 </ui>
 
 <h1> Implementation </h1>
